@@ -5,15 +5,15 @@
   font-weight: 400;
   font-style: normal;
     background: #fffaf7;
-    color: #b6174c;
+    color: #fff;
     margin: 0;
     padding: 0;
     text-align: center;
   }
   
   .hero{
-background: #b6174c;
-     padding: 200px 0px;
+   background: #b6174c;
+   padding: 200px 0px;
   }
   h1 {
     font-size: 4em;
@@ -21,7 +21,7 @@ background: #b6174c;
     text-align: center;
   }
 .hero h1{
-   color: #b6174c;
+   color: #fff;
 }
   h2 {
     margin-top: 40px;
@@ -151,6 +151,7 @@ background: #b6174c;
   background-color: #f79cba;
   padding: 50px 0;
 }
+
 
 
 
