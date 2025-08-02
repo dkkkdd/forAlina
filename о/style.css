@@ -12,7 +12,7 @@
   }
   
   .hero{
-    background-image: url(/img/blurred-pop-abstract-background-pink_58702-1694.avif);
+    background-image: url(img/blurred-pop-abstract-background-pink_58702-1694.avif);
     width: 100%;
     height: 100%;
      background-size: cover;
@@ -154,3 +154,4 @@
   background-color: #f79cba;
   padding: 50px 0;
 }
+
