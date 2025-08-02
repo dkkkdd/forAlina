@@ -12,19 +12,17 @@
   }
   
   .hero{
-    background-color: #fffaf7;
 
      padding: 200px 0px;
   }
   h1 {
     font-size: 4em;
-   color: #b6174c;
     margin-top: 30px;
     text-align: center;
   }
 .hero h1{
    color: #b6174c;
-  
+}
   h2 {
     margin-top: 40px;
     font-size: 2em;
@@ -153,6 +151,7 @@
   background-color: #f79cba;
   padding: 50px 0;
 }
+
 
 
 
