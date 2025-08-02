@@ -13,12 +13,12 @@
   
   .hero{
     background-color: #fffaf7;
-color: #b6174c;
+
      padding: 200px 0px;
   }
   h1 {
     font-size: 4em;
-    color: #ffffff;
+   color: #b6174c;
     margin-top: 30px;
     text-align: center;
   }
@@ -151,6 +151,7 @@ color: #b6174c;
   background-color: #f79cba;
   padding: 50px 0;
 }
+
 
 
 
