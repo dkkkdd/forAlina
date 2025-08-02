@@ -1,0 +1,243 @@
+[
+    {
+      "productId": 101,
+      "name": "Laptop",
+      "category": "Electronics",
+      "icon": "img/laptop.jpg",
+      "price": 1200.99,
+      "stock": 30,
+      "details": {
+        "brand": "TechBrand",
+        "warranty": "2 years"
+      }
+    },
+    {
+      "productId": 102,
+      "name": "Smartphone",
+      "category": "Electronics",
+      "icon": "img/Smartphone.png",
+      "price": 799.49,
+      "stock": 50,
+      "details": {
+        "brand": "PhoneMaker",
+        "warranty": "1 year"
+      }
+    },
+    {
+      "productId": 103,
+      "name": "Headphones",
+      "category": "Accessories",
+      "icon": "img/Headphones.jpg",
+      "price": 199.99,
+      "stock": 75,
+      "details": {
+        "brand": "SoundMax",
+        "warranty": "6 months"
+      }
+    },
+    {
+      "productId": 104,
+      "name": "Office Chair",
+      "category": "Furniture",
+      "icon": "img/OfficeChair.jpg",
+      "price": 150.00,
+      "stock": 20,
+      "details": {
+        "brand": "ComfortSeating",
+        "warranty": "1 year"
+      }
+    },
+    {
+      "productId": 105,
+      "name": "Electric Kettle",
+      "category": "Home Appliances",
+      "icon": "img/ElectricKettle.jpg",
+      "price": 49.99,
+      "stock": 100,
+      "details": {
+        "brand": "KitchenPro",
+        "warranty": "2 years"
+      }
+    },
+    {
+      "productId": 106,
+      "name": "Gaming Console",
+      "category": "Electronics",
+      "icon": "img/GamingConsole.jpg",
+      "price": 399.99,
+      "stock": 25,
+      "details": {
+        "brand": "GameBox",
+        "warranty": "1 year"
+      }
+    },
+    {
+      "productId": 107,
+      "name": "Blender",
+      "category": "Home Appliances",
+      "icon": "img/Blender.jpeg",
+      "price": 89.99,
+      "stock": 40,
+      "details": {
+        "brand": "BlendIt",
+        "warranty": "1 year"
+      }
+    },
+    {
+      "productId": 108,
+      "name": "Desk Lamp",
+      "category": "Furniture",
+      "icon": "img/DeskLamp.jpg",
+      "price": 29.99,
+      "stock": 60,
+      "details": {
+        "brand": "LightUp",
+        "warranty": "6 months"
+      }
+    },
+    {
+      "productId": 109,
+      "name": "Wireless Mouse",
+      "category": "Accessories",
+      "icon": "img/WirelessMouse.jpg",
+      "price": 25.99,
+      "stock": 80,
+      "details": {
+        "brand": "ClickTech",
+        "warranty": "1 year"
+      }
+    },
+    {
+      "productId": 110,
+      "name": "Backpack",
+      "category": "Accessories",
+      "icon": "img/Backpack.jpg",
+      "price": 49.99,
+      "stock": 70,
+      "details": {
+        "brand": "CarryAll",
+        "warranty": "1 year"
+      }
+    },
+    {
+      "productId": 111,
+      "name": "Monitor",
+      "category": "Electronics",
+      "icon": "img/Monitor.png",
+      "price": 299.99,
+      "stock": 35,
+      "details": {
+        "brand": "ViewScreen",
+        "warranty": "2 years"
+      }
+    },
+    {
+      "productId": 112,
+      "name": "Coffee Maker",
+      "category": "Home Appliances",
+      "icon": "img/CoffeeMaker.jpg",
+      "price": 99.99,
+      "stock": 45,
+      "details": {
+        "brand": "BrewMaster",
+        "warranty": "1 year"
+      }
+    },
+    {
+      "productId": 113,
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "icon": "img/RunningShoes.jpeg",
+      "price": 69.99,
+      "stock": 55,
+      "details": {
+        "brand": "RunFast",
+        "warranty": "6 months"
+      }
+    },
+    {
+      "productId": 114,
+      "name": "Electric Toothbrush",
+      "category": "Personal Care",
+      "icon": "img/ElectricToothbrush.png",
+      "price": 59.99,
+      "stock": 65,
+      "details": {
+        "brand": "SmileBright",
+        "warranty": "1 year"
+      }
+    },
+    {
+      "productId": 115,
+      "name": "Water Bottle",
+      "category": "Accessories",
+      "icon": "img/WaterBottle.png",
+      "price": 19.99,
+      "stock": 90,
+      "details": {
+        "brand": "Hydrate",
+        "warranty": "6 months"
+      }
+    },
+    {
+      "productId": 116,
+      "name": "Tablet",
+      "category": "Electronics",
+      "icon": "img/Tablet.jpg",
+      "price": 499.99,
+      "stock": 40,
+      "details": {
+        "brand": "TabWorld",
+        "warranty": "1 year"
+      }
+    },
+    {
+      "productId": 117,
+      "name": "Wireless Earbuds",
+      "category": "Accessories",
+      "icon": "img/WirelessEarbuds.jpg",
+      "price": 149.99,
+      "stock": 55,
+      "details": {
+        "brand": "SoundWave",
+        "warranty": "1 year"
+      }
+    },
+    {
+      "productId": 118,
+      "name": "Fitness Tracker",
+      "category": "Wearables",
+      "icon": "img/FitnessTracker.png",
+      "price": 99.99,
+      "stock": 60,
+      "details": {
+        "brand": "FitLife",
+        "warranty": "1 year"
+      }
+    },
+    {
+      "productId": 119,
+      "name": "Air Purifier",
+      "category": "Home Appliances",
+      "icon": "img/AirPurifierjpg.jpg",
+      "price": 199.99,
+      "stock": 25,
+      "details": {
+        "brand": "PureAir",
+        "warranty": "2 years"
+      }
+    },
+    {
+      "productId": 120,
+      "name": "Standing Desk",
+      "category": "Furniture",
+      "icon": "img/StandingDesk.png",
+      "price": 350.00,
+      "stock": 15,
+      "details": {
+        "brand": "ErgoStand",
+        "warranty": "3 years"
+      }
+    }
+  ]
+  
